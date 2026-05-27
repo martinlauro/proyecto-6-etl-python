@@ -1,0 +1,16 @@
+fecha,cliente,producto,cantidad,precio,pais
+2026-01-05,Tech SA,Notebook,1,220000,Argentina
+2026-01-12,comercial norte,Monitor,2,120000,Argentina
+01/18/2026,TECH SA,notebook,1,220000,argentina
+2026-01-25,Juan Perez,Teclado,3,28000,Argentina
+2026-01-30,juan perez,TECLADO,2,28000,ARGENTINA
+2026-02-03,Comercial Norte,Monitor,1,120000,argentina
+2026-02-08,tech sa,Notebook,1,220000,Argentina
+02-14-2026,Barcelona SL,Silla,1,75000,España
+2026-02-20,JUAN PEREZ,teclado,2,28000,ARGENTINA
+2026-02-25,Tech SA,NOTEBOOK,1,220000,Argentina
+2026-03-02,COMERCIAL NORTE,monitor,2,120000,Argentina
+2026-03-07,Barcelona SL,Silla,1,75000,españa
+2026-03-11,Tech SA,Teclado,1,28000,Argentina
+2026-03-15,juan perez,Notebook,1,220000,argentina
+2026-03-20,Comercial Norte,MONITOR,3,120000,Argentina
