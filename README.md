@@ -21,4 +21,4 @@ transformación y carga en SQL Server.
 - `ventas_limpias.csv` — Datos después de la transformación
 
 ## Autor
-Martin Lauro — LinkedIn https://www.linkedin.com/in/martin-lauro/
+Martin Lauro — [LinkedIn](https://www.linkedin.com/in/martin-lauro/)
